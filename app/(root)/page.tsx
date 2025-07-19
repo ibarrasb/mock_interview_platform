@@ -10,7 +10,7 @@ const Page = () => {
         <>
             <section className="card-cta">
                 <div className="flex flex-col gap-6 max-w-lg">
-                    <h2>Get Interview ready with PrepWise</h2>
+                    <h2>Your prep starts with InterviewPilot.</h2>
                         <p className="text-lg">
                             Practice real interview questions with AI.
                         </p>
